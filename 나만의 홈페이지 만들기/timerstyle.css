@@ -1,0 +1,45 @@
+.content {
+    width: 50%;
+    height: 30%;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 25%;
+    top: 35%;
+}
+#w_timer {
+    display: none;
+}
+
+#w_stopwatch {
+    display: none;
+}
+
+#w_timer{
+    display: none;
+}
+
+
+input[type=number]{
+    width:100px;
+}
+.window {
+    height: 90%;
+    border: 5px solid black;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.select {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    margin: -20px 0px 0px 0px;
+    text-shadow: 2px 2px white;
+}
+h3{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
